@@ -1,2 +1,2 @@
-Feature: hvkvkl
+Feature: Hi!
   Scenario: Hello
