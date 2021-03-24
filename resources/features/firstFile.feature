@@ -1,2 +1,2 @@
 Feature: hvkvkl
-  Scenario: ,m ,m .  .kn kbnvccgh
+  Scenario: Hello
